@@ -1,6 +1,5 @@
 # HelloSugar
-
-**TODO: Add description**
+sugar-framework web
 
 ## Installation
 
